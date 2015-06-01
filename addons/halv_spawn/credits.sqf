@@ -13,28 +13,28 @@ _alltext = [
 		"#71C700", //green light
 		[
 			//Sub Text(s)
-			"- HALV's Server -"
+			"ITGC Overpoch Server"
 		]
 	],
 	[
 		"Teamspeak ]I[ Server :",
 		"#c77000", //orange rust
 		[
-			"halv.ddns.net:9995"," ","Channels for Players to Use"
+			"ts.itgcommunity.com"," ","Channels for Players to Use"
 		]
 	],
 	[
 	"Server Admins :",
 	"#25B25B", //Green
 	[
-		"Halv","Deathstroke"
+		"xBloodshed","Trolltastic"
 	]
 	],
 	[
 		"Main Rules :",
 		"#C80000", //Red dark
 		[
-			"No Shooting Into SafeZones!"," ","Play fair!"," ","Dont be a douche!"
+			"No Shooting Into SafeZones!"," ","Play fair!"," ","Dont be a douche!"," ","No hacking,glitching etc.."
 		]
 	],
 	[
@@ -51,7 +51,7 @@ _alltext = [
 		"Server Scripted by :",
 		"#C80000", //Red dark
 		[
-			"- HALV -"
+			"xBloodshed"
 		]
 	],
 	[
@@ -59,14 +59,14 @@ _alltext = [
 		"#ffff00", //Yellow
 		[
 			//"4 Hour","Schedule"," (not set times)"
-			"00:00","04:00","08:00","12:00","16:00","20:00","GMT + 1"
+			"00:00","04:00","08:00","12:00","16:00","20:00","GMT + 5:30"
 		]
 	],
 	[
 		"Support / Help / Donor Info:",
 		"#71C700", //green light
 		[
-			"All Found on","Halv's Blog","halv.ddns.net","or","Ts3:","halv.ddns.net:9995"
+			"All Found on","ITGCommunity.com","or","Ts3:","ts.itgcommunity.com"
 		]
 	],
 	[
