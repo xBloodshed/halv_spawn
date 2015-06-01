@@ -47,8 +47,8 @@
 				<Spanish>Seleccione punto de aparición</Spanish>
 			</Key>
 			<Key ID="STR_HALV_TS3">
-				<Original>TS3: halv.ddns.net:9995</Original>
-				<English>TS3: halv.ddns.net:9995</English>
+				<Original>TS3: ts.itgcommunity.com</Original>
+				<English>TS3: ts.itgcommunity.com</English>
 			</Key>
 			<Key ID="STR_HALV_RANDOM">
 				<Original>Random</Original>
@@ -219,20 +219,20 @@
 				<Spanish>Doble clic para aparecer</Spanish>
 			</Key>
 			<Key ID="STR_HALV_DOUBLECLICKTOSPAWNREG">
-				<Original>Double Click For Registered Spawn</Original>
-				<English>Double Click For Registered Spawn</English>
+				<Original>Double Click For Member's Spawn</Original>
+				<English>Double Click For Member's Spawn</English>
 				<Czech>Dvoj klik, Zrození pro Registrované</Czech>
 				<French>Double Cliquez Pour Spawn Enregistré</French>
 				<German>Doppel klick um auf die festgelegten Position zu spawnen</German>
 				<Italian>Fare doppio clic per Spawn registrato</Italian>
 				<Polish>Kliknij dwukrotnie dla zarejestrowanych Spawn</Polish>
-				<Portuguese>Double Click do Spawn Para Registered</Portuguese>
+				<Portuguese>Double Click do Spawn Para Member's</Portuguese>
 				<Russian>Двойной щелчок для спавна(регистрация)</Russian>
 				<Spanish>Double click para aparicion de registrados</Spanish>
 			</Key>
 			<Key ID="STR_HALV_REGDONORONLY">
-				<Original>Registered / Donors only ...</Original>
-				<English>Registered / Donors only ...</English>
+				<Original>Members | DONORS</Original>
+				<English>Members | DONORS</English>
 				<Czech>Pouze Registrovaní / Dárci ...</Czech>
 				<French>Enregistrés / Bailleurs de Fonds ...</French>
 				<German>Nur Donatoren / Spender ...</German>
@@ -255,8 +255,8 @@
 				<Spanish>Double click para aparición de donante</Spanish>
 			</Key>
 			<Key ID="STR_HALV_DONORONLY">
-				<Original>Donor only ...</Original>
-				<English>Donor only ...</English>
+				<Original>DONORS</Original>
+				<English>DONORS</English>
 				<Czech>Pouze Dárci ...</Czech>
 				<French>Donateur seulement ...</French>
 				<German>Nur Donator ...</German>
@@ -327,8 +327,8 @@
 				<Spanish>¡Tienes que ser un donante para aparecer aquí ...</Spanish>
 			</Key>
 			<Key ID="STR_HALV_NEEDTOBEREG">
-				<Original>You need to be a registered user to spawn here ...</Original>
-				<English>You need to be a registered user to spawn here ...</English>
+				<Original>You need to be a registered member to spawn here ...</Original>
+				<English>You need to be a registered member to spawn here ...</English>
 				<Czech>Musíte být registrovaným uživatelem, aby se zrodili zde ...</Czech>
 				<French>Vous devez être un utilisateur enregistré pour frayer ici ...</French>
 				<German>Du musst registriert sein um hier zu spawnen</German>
